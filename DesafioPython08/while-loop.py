@@ -15,10 +15,10 @@ while isGuessRight != True:
     else:
         print("You guessed {}. Sorry, that isn’t it. Try again.".format(guess))
         
-#Se o usuário não adivinhou a resposta certa, insira o loop.
-#Peça ao usuário um palpite.
-#O palpite é o número certo?
-#Se o palpite estiver certo, diga ao usuário que o palpite estava certo e saia do loop.
-#Se o palpite estiver errado, diga ao usuário que o palpite estava errado e mantenha o loop.
+# Se o usuário não adivinhou a resposta certa, insira o loop.
+# Peça ao usuário um palpite.
+# O palpite é o número certo?
+# Se o palpite estiver certo, diga ao usuário que o palpite estava certo e saia do loop.
+# Se o palpite estiver errado, diga ao usuário que o palpite estava errado e mantenha o loop.
 
 
